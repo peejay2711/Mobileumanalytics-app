@@ -214,7 +214,6 @@ numba @ file:///C:/ci/numba_1635186062888/work
 numexpr @ file:///C:/ci/numexpr_1618856728739/work
 numpy==1.25.0
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
 outcome==1.2.0
 packaging @ file:///tmp/build/80754af9/packaging_1625611678980/work
